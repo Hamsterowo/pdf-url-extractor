@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PDF Viewer 搜尋器
 // @namespace    http://tampermonkey.net/
-// @version      3.0
+// @version      3.1
 // @description  掃描 PDF 連結
 // @author       Ray
 // @match        *://*/*
