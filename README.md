@@ -33,7 +33,7 @@
 > 如果點擊連結後是其它腳本軟體，請改用下方的「方法二」。
 
 ### 方法二：手動複製貼上 (若方法一失敗)
-1.  開啟 [腳本原始碼頁面 (Raw)](https://github.com/Hamsterowo/pdf-url-extractor/blob/main/script.user.js)。
+1.  開啟 [script.user.js](https://github.com/Hamsterowo/pdf-url-extractor/blob/main/script.user.js)。
 2.  全選程式碼 (`Ctrl + A`) 並複製 (`Ctrl + C`)。
 3.  點擊瀏覽器右上角的 **Tampermonkey 圖示** -> **「添加新腳本 (Create a new script)」**。
 4.  刪除編輯器內所有預設文字，貼上剛剛複製的程式碼。
