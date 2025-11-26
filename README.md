@@ -24,12 +24,25 @@
     * **單一視窗顯示**，不再被多個彈跳視窗轟炸。
 * **📋 一鍵複製**：提供按鈕直接將所有連結複製到剪貼簿。
 
-## 🚀 安裝方式
-
-1.  請先安裝瀏覽器擴充功能：[Tampermonkey](https://www.tampermonkey.net/) (Chrome/Edge/Firefox)。
-2.  **[點此安裝腳本](https://raw.githubusercontent.com/Hamsterowo/pdf-url-extractor/main/script.user.js)**
+### 方法一：直接點擊安裝 (推薦)
+1.  **[點此安裝腳本](https://raw.githubusercontent.com/Hamsterowo/pdf-url-extractor/main/script.user.js)**
     * *(請確保連結指向你 GitHub 倉庫中 `script.user.js` 的 Raw 地址)*
-3.  點擊連結後，Tampermonkey 會跳出安裝頁面，點擊 **「安裝 (Install)」** 即可。
+2.  Tampermonkey 應會自動跳出安裝確認頁面，點擊 **「安裝 (Install)」** 即可。
+
+> **⚠️ 注意：**
+> 如果點擊連結後是其它腳本軟體，請改用下方的「方法二」。
+
+### 方法二：手動複製貼上 (若方法一失敗)
+1.  開啟 [腳本原始碼頁面 (Raw)](https://raw.githubusercontent.com/Hamsterowo/pdf-url-extractor/main/script.user.js)。
+2.  全選程式碼 (`Ctrl + A`) 並複製 (`Ctrl + C`)。
+3.  點擊瀏覽器右上角的 **Tampermonkey 圖示** -> **「添加新腳本 (Create a new script)」**。
+4.  刪除編輯器內所有預設文字，貼上剛剛複製的程式碼。
+5.  按下 `Ctrl + S` 儲存即可。
+
+### 方法三：拖曳安裝
+1.  在腳本連結上按右鍵 -> **「另存連結為...」**，將 `.user.js` 檔案下載到電腦。
+2.  點擊 Tampermonkey 圖示 -> 進入 **「管理面板 (Dashboard)」**。
+3.  將下載的檔案直接 **拖曳 (Drag & Drop)** 進管理面板列表中，即可觸發安裝。
 
 ## 📖 使用教學
 

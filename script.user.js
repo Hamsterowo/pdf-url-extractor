@@ -8,7 +8,6 @@
 // @grant        GM_registerMenuCommand
 // @grant        GM_setClipboard
 // 
-// 這裡是最重要的設定：
 // @updateURL    https://raw.githubusercontent.com/Hamsterowo/pdf-url-extractor/main/script.user.js
 // @downloadURL  https://raw.githubusercontent.com/Hamsterowo/pdf-url-extractor/main/script.user.js
 // ==/UserScript==
